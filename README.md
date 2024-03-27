@@ -18,7 +18,7 @@
 
 * 💻 Estudiante de Ingenieria en Ciencias y Sistemas
 * 🎓 Participante del programa de Oracle - Oracle Next Education
-* 🌐 Puedes ver mi trabajo: [mi portafolio]([https://](https://github.com/saulp04))
+* 🌐 Puedes ver mi trabajo: [mi portafolio](https://github.com/saulp04)
 
 ### 👨‍💻 Lenguajes & Herramientas
 
